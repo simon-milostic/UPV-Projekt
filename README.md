@@ -22,15 +22,16 @@ Use of AI is present within this program and, if the viewer is interested, more 
 
 ## How to run
 
-`python3 main.py` in terminal should do the trick, if not, the following ought to work:<br>
-`python3 -m venv venv`<br>
+- `python3 main.py` in terminal should do the trick, if not, the following ought to work:<br>
+
+- `python3 -m venv venv`<br>
 Followed by: <br>
-`source venv/bin/activate`<br>
+- `source venv/bin/activate`<br>
 And then: <br>
-`pip install -r requirements.txt`<br>
+- `pip install -r requirements.txt`<br>
 
 Now that we have everything set up and imported, we can run the program:<br>
-`python main.py`<br>
+- `python main.py`<br>
 
 Then open <http://localhost:8080/>.<br>
 
