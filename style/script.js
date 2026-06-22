@@ -1,3 +1,4 @@
+/*
 (function () {
 	'use strict';
 
@@ -135,8 +136,8 @@
 		}
 	}
 
-	/* Replace native selects in filter forms with an accessible custom dropdown so
-	   the opened panel and option text can be fully styled across browsers. */
+
+	   
 	function initCustomSelects() {
 		qa('form.filters select').forEach(select => {
 			if (select.dataset.customized) return; // already processed
@@ -517,8 +518,7 @@
 		}
 	}
 
-	/* Replace native selects in filter forms with an accessible custom dropdown so
-	   the opened panel and option text can be fully styled across browsers. */
+	
 	function initCustomSelects() {
 		qa('form.filters select').forEach(select => {
 			if (select.dataset.customized) return; // already processed
@@ -761,4 +761,4 @@
 	else init();
 
 })();
-
+*/
