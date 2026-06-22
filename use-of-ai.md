@@ -304,9 +304,11 @@ and `padding-right: 40px` makes sure the selected text never overlaps the arrow.
 
 ## Comment
 
-Everything after line 153 in style.css is made with big help of AI, however, the main goal of this project was not the design od the page. The project and the code itself would <br>
+Everything after line 153 in style.css is made with big help of AI, however, the main goal of this project was not the design of the page. The project and the code itself would <br>
 work just fine even without the AI generated part, it was generated with the sole purpose to make the site more visually appealing, CSS is a "decorative" file after all, <br>
 and does not hold any structure itself. Same goes with script.js, it is there only to make experience smoother and more enjoyable to the viewer.<br>
-<br>
+
 Moreover, AI assistance was used only when the code reached certain complexity, as it can be seen from this file. <br>
 Most of the background knowledge was gained using different internet sources, YouTube tutorials and analysing past codes.<br>
+
+Update: script.js file has been commented out, serving no current meaning to the project itself. 
